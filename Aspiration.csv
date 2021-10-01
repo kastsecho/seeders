@@ -1,0 +1,58 @@
+Age,Pack,Type,Name
+Child,Base,Creativity,Artistic Prodigy
+Child,Base,Mental,Whiz Kid
+Child,Base,Motor,Rambunctious Scamp
+Child,Base,Social,Social Butterfly
+Young Adult,Base,Athletic,Bodybuilder
+Young Adult,Base,Creativity,Musical Genius
+Young Adult,Base,Creativity,Painter Extraordinaire
+Young Adult,Base,Creativity,Bestselling Author
+Young Adult,Base,Deviance,Public Enemy
+Young Adult,Base,Deviance,Chief of Mischief
+Young Adult,Base,Family,Big Happy Family
+Young Adult,Base,Family,Successful Lineage
+Young Adult,Base,Food,Master Chef
+Young Adult,Base,Food,Master Mixologist
+Young Adult,Base,Fortune,Fabously Wealthy
+Young Adult,Base,Fortune,Mansion Baron
+Young Adult,Base,Knowledge,Computer Whiz
+Young Adult,Base,Knowledge,Nerd Brain
+Young Adult,Base,Knowledge,Renaissance Sim
+Young Adult,Base,Love,Serial Romantic
+Young Adult,Base,Love,Soulmate
+Young Adult,Base,Nature,Angling Ace
+Young Adult,Base,Nature,The Curator
+Young Adult,Base,Nature,Outdoor Enthusiast
+Young Adult,Base,Nature,Freelance Botanist
+Young Adult,Base,Popularity,Friend of the World
+Young Adult,Base,Popularity,Party Animal
+Young Adult,Base,Popularity,Joke Star
+Young Adult,Get Together,Popularity,Leader of the Pack
+Young Adult,City Living,Location,City Native
+Young Adult,Vampires,Family,Vampire Family
+Young Adult,Vampires,Knowledge,Master Vampire
+Young Adult,Vampires,Popularity,Good Vampire
+Young Adult,Parenthood,Family,Super Parent
+Young Adult,Cats & Dogs,Animal,Friend of the Animals
+Young Adult,Jungle Adventure,Knowledge,Archaeology Scholar
+Young Adult,Jungle Adventure,Nature,Jungle Explorer
+Young Adult,Get Famous,Creativity,Master Actor/Actress
+Young Adult,Get Famous,Popularity,World-Famous Celebrity
+Young Adult,Strangerville,Location,StrangerVille Mystery
+Young Adult,Island Living,Location,Beach Life
+Young Adult,Realm of Magic,Knowledge,Spellcraft & Sorcery
+Young Adult,Realm of Magic,Nature,Purveyor of Potions
+Young Adult,Discover University,Knowledge,Academic
+Young Adult,Eco Lifestyle,Creativity,Master Maker
+Young Adult,Eco Lifestyle,Nature,Eco Innovator
+Young Adult,Nifty Knitting,Creativity,Lord/Lady of the Knits
+Young Adult,Journey to Batuu,Star Wars,Hope vs Order
+Young Adult,Journey to Batuu,Star Wars,Galactic Privateer
+Young Adult,Snowy Escape,Athletic,Extreme Sports Enthusiast
+Young Adult,Snowy Escape,Location,Mt Komorebi Sightseer
+Young Adult,Bust the Dust,Location,Perfectly Pristine
+Young Adult,Bust the Dust,Location,Fabulously Filthy
+Young Adult,Cottage Living,Nature,Country Caretaker
+Young Adult,Spa Day Refresh,Wellness,Inner Peace
+Young Adult,Spa Day Refresh,Wellness,Zen Guru
+Young Adult,Spa Day Refresh,Wellness,Self-Care Specialist
